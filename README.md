@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PawanArasu
 - 👀 I’m interested in web Dev and Mobile Dev
-- 🌱 I’m currently learning Discord.js
+- 🌱 I’m currently learning Nothing.
 - 💞️ I’m looking to collaborate on projectsgive me experience on html,css and js
 - 📫 How to reach me , Reach me throughthis mail:pawanarasuphoneix@outlook.com
 
