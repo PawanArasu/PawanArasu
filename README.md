@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @PawanArasu
-- 👀 I’m interested in web Dev and Mobile Dev
-- 🌱 I’m currently learning Nothing.
-- 💞️ I’m looking to collaborate on projectsgive me experience on html,css and js
-- 📫 How to reach me , Reach me throughthis mail:pawanarasuphoneix@outlook.com
+ 👋 Hi, I’m @Pawan
+ 👀 I’m interested in Web Dev and Mobile Dev
+ ✌  I'm looking forward to collaborate with people and gain some experience.
+ 
+ Languages I know 
+  HTML , CSS , JS , Python
+  
+ Stuffs I can do
+  1. Simple landing Websites with simple animations.
+  2. Design simple Websites.
+  3. Hard Code.
+  
+  Peace!!✌.
+  
 
 <!---
 PawanArasu/PawanArasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
