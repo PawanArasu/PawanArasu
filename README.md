@@ -1,6 +1,7 @@
  👋 Hi, I’m @Pawan
- 👀 I’m interested in Web Dev and Mobile Dev
+ 👀 I’m interested in Web Dev and Mobile Dev. I'm a Web Dev by far.
  ✌  I'm looking forward to collaborate with people and gain some experience.
+ 
  
  Languages I know 
   HTML , CSS , JS , Python
