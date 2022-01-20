@@ -6,6 +6,8 @@
  Languages I know 
   HTML , CSS , JS , Python
   
+  Currently Learning React!
+  
  Stuffs I can do
   1. Simple landing Websites with simple animations.
   2. Design simple Websites.
