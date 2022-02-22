@@ -11,7 +11,7 @@
  Stuffs I can do
   1. Simple landing Websites with simple animations.
   2. Design simple Websites.
-  3. Hard Code.
+  3. Hard Code. (Learning how to not Hard Code and AutoMate Stuffs!!!)
   
   Peace!!✌.
   
